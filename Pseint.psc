@@ -1,6 +1,6 @@
 //ANALISIS
 // -Definición del Problema: Tenemos que leer las 3 edades ingreasadas para así poder determinar cuál es el mayor y cuál es el menor y si son mayores de edad. 
-// -Datos de Entrada: edad1, edad2 y edad3 Como Enteros 
+// -Datos de Entrada: edad1, edad2, edad3, mayor y menor Como Enteros 
 // -Información de Salida: "mayor:" edad1 y "menor:" edad_1 Como enteros 
 // -Variables: tipoDeDato_edad1, edad2, edad3 Como Enteros
 
